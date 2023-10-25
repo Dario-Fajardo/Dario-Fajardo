@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Darío Fajardo</h1>
 <h3 align="center">Soy estudiante 📚 de Ingeniería Informática 💻 en la ESIT de la Universidad de La Laguna 🟪</h3>
 
-![](https://github.com/Dario_Fajardo/Giphy.gif)
+![giphy](https://github.com/Dario-Fajardo/Dario-Fajardo/assets/114748553/79db9a1c-cd23-49f8-9ef7-a571dbf28c60)
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
