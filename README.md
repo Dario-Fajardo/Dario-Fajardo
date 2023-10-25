@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Darío Fajardo</h1>
 <h3 align="center">Soy estudiante 📚 de Ingeniería Informática 💻 en la ESIT de la Universidad de La Laguna 🟪</h3>
 
-<iframe src="https://giphy.com/embed/j3OL6mSc2FeV0UHMDg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RawFury-raccoon-backbone-howard-lotar-j3OL6mSc2FeV0UHMDg">via GIPHY</a></p>
-
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
 <a href="https://www.facebook.com/dario.fa.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dario.fa.50" height="30" width="40" /></a>
