@@ -5,5 +5,6 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
 ![Profile stat](https://github-readme-stats.vercel.app/api?username=Dario-Fajardo&show_icons=true&theme=radical&include_all_commits=true) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Fajardo&exclude_repo=dotfiles&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true)
