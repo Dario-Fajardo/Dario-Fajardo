@@ -5,5 +5,6 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <img src=https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white>
+<img src=https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white>
 
 ![Profile stat](https://github-readme-stats.vercel.app/api?username=Dario-Fajardo&show_icons=true&theme=radical&include_all_commits=true) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Fajardo&exclude_repo=dotfiles&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true)
