@@ -15,6 +15,10 @@
 
 <h3 align="left">Estadísticas</h3>
 
-![Profile stat](https://github-readme-stats.vercel.app/api?username=Dario-Fajardo&show_icons=true&theme=radical&include_all_commits=true) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dario-Fajardo&theme=tokyonight&hide_border=true&border_radius=6&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Fajardo&exclude_repo=Exercism_Problems&hide_progress=false&theme=tokyonight)
+
+<p align="center">
+<a href="https://github.com/Dario-Fajardo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dario-Fajardo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dario-Fajardo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
