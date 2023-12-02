@@ -13,4 +13,6 @@
 
 <br>
 
-![Profile stat](https://github-readme-stats.vercel.app/api?username=Dario-Fajardo&show_icons=true&theme=radical&include_all_commits=true) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Fajardo&exclude_repo=dotfiles&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true)
+![Profile stat](https://github-readme-stats.vercel.app/api?username=Dario-Fajardo&show_icons=true&theme=radical&include_all_commits=true) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbianSL&theme=tokyonight&hide_border=true&border_radius=6&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbianSL&exclude_repo=Exercism_Problems&hide_progress=false&theme=tokyonight)
